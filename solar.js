@@ -2,6 +2,7 @@
 //create canvas
 function setup() {
   createCanvas(640, 480);
+  center();
 }
 
 //create variable for moon and background
