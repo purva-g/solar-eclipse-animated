@@ -1,6 +1,6 @@
 //create canvas
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(700, 700);
 }
 //create variable for moon and background
 var moon = -43;
