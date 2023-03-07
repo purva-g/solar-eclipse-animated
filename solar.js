@@ -1,7 +1,6 @@
 //Made-in-2016-by-Purva
 //create canvas
 function setup() {
-  div.center();
   createCanvas(640, 480);
 }
 
