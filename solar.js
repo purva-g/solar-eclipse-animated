@@ -3,10 +3,12 @@
 function setup() {
   createCanvas(640, 480);
 }
+
 //create variable for moon and background
 var moon = -43;
 var back = 0;
 
+//create function to draw sun and moon
 function draw() {
     noStroke();
   background(25, 25, 25);
